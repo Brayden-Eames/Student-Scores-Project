@@ -1,4 +1,4 @@
-# Assignment_3
+# Student Scores C# Project 
 
 C# Project from my upper division Object-Oriented Windows Design in C#. The program allows the user to input the number of students and
 assignments per student. After commiting the counts, the user can then give a name to each student, and assign a specific assignment score 
